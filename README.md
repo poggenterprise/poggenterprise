@@ -1,4 +1,4 @@
-<img src="./banner.svg?v=2" width="1040" alt="Pogg — Software, interfaces e experimentos. Capa escura com uma forma orbital em violeta.">
+<img src="./capa-pogg.svg" width="1040" alt="Pogg — Software, interfaces e experimentos. Capa escura com uma forma orbital em violeta.">
 
 **[Repositórios](https://github.com/poggenterprise?tab=repositories) · [Atividade](https://github.com/poggenterprise#js-contribution-activity)**
 
